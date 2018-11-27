@@ -3,6 +3,8 @@ import json
 from os.path import join, dirname
 from watson_developer_cloud import SpeechToTextV1
 
+#PROJETO PARA CONVERTE TEXTO EM AUDIO USANDO O IBM WATSON
+
 # If service instance provides API key authentication
 # service = SpeechToTextV1(
 #     ## url is optional, and defaults to the URL below. Use the correct URL for your region.
