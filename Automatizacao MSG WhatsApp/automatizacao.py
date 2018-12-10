@@ -1,9 +1,9 @@
-from selenium import webdriver
+﻿from selenium import webdriver
 import webbrowser
 
 #driver = webbrowser.open('https://web.whatsapp.com/')
 #'''C:\Users\Fabricio\Desktop\chromedriver'''
-driver = webdriver.Firefox()
+driver = webdriver.Chrome()
 driver.get('https://web.whatsapp.com/')
 
 all_name = ['Teste', 'Mensagem', 'Ana Luyza', 'Bot', 'Sansao']
