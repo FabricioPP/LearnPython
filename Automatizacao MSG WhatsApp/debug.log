@@ -1,0 +1,4 @@
+[1210/213513.552:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1210/213513.576:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1210/213513.576:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1210/213513.606:ERROR:exception_snapshot_win.cc(88)] thread ID 704 not found in process
